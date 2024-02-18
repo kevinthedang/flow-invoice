@@ -10,8 +10,10 @@ My goal is to develop a better understanding of Angular, Spring Boot, and Maven 
   <img src="./imgs/diagram-flow.PNG" width="750" height="400" />
 <p>
 
-## Credit
+## Resources
+* [Spring Initializer](https://start.spring.io/)
 
+## Credit
 * [Kevin Dang](https://github.com/kevinthedang/)
 
 [Tutorial](https://www.youtube.com/watch?v=tX7t45m-4H8)
